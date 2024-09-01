@@ -66,3 +66,5 @@ Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untu
 - **Referensi dan Sumber:** Menyediakan link ke halaman proyek, repositori GitHub, dan jurnal ilmiah terkait.
 - **Lisensi:** Bagian ini mengacu pada lisensi proyek (disesuaikan dengan lisensi yang Anda gunakan).
 
+Terima kasih.
+-**Deddy Ratnanto**-
